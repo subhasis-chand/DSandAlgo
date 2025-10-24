@@ -1,0 +1,216 @@
+************* All Topics ***********
+
+1. Recursion + Divide & Conquer
+2. Sorting & Searching Algorithms
+3. Trees & Binary Trees
+4. Graphs
+5. Heap & Priority Queue
+6. Hashing & Maps
+7. Linked List
+8. Stacks & Queues
+9. Backtracking
+10. Dynamic Programming (DP)
+11. Greedy Algorithms
+12. Arrays & Strings
+13. Mathematics & Number Theory
+14. Bit Manipulation
+15. Core Computer Science Fundamentals (CS Concepts)
+16. System Design
+17. Behavioral & HR Rounds
+
+********************** Details *************************
+
+1. Recursion + Divide & Conquer
+    - Recursion basics (factorial, Fibonacci, sum)
+    - Binary Search variations
+    - Merge Sort
+    - Quick Sort
+
+2. Sorting & Searching Algorithms
+    - Bubble, Insertion, Selection (basics)
+    - Counting Sort, Radix Sort, Bucket Sort
+    - Pancake sort
+    - Searching Techniques
+    - Binary Search
+    - Two pointer method
+    - Sliding window method
+
+3. Trees & Binary Trees
+    - Basic Concepts
+    - Tree traversal (Preorder, Inorder, Postorder)
+    - Level Order (BFS), Depth-based traversal (DFS)
+    - Height, Balanced Tree
+    - Binary Search Tree (BST) operations: insert, delete, find
+    - Lowest Common Ancestor (LCA)
+    - Top View / Bottom View / Zig-zag traversal
+    - Vertical / Diagonal traversal
+    - Build tree from traversals (Inorder + Preorder/Postorder)
+    - Serialize / Deserialize binary tree
+    - Mirror tree, Symmetric tree
+    - Path-sum and root-to-leaf problems
+
+4. Graphs
+    - Representation
+    - Adjacency list, matrix
+    - Directed / Undirected graphs
+    - Traversals
+    - BFS, DFS, Topological Sort
+    - Connected Components
+    - Cycle detection (directed/undirected)
+    - Shortest Path: Dijkstra, Bellman–Ford, Floyd–Warshall
+    - Minimum Spanning Tree: Kruskal, Prim
+    - Strongly Connected Components
+    - Minimum Spanning Tree optimization
+
+5. Heap & Priority Queue
+    - Min Heap, Max Heap
+    - Heapify, Insert, Delete
+    - Heap Sort
+    - Kth largest/smallest element
+    - Merge k sorted arrays
+    - Median of Data Stream
+
+
+6. Hashing & Maps
+    - HashMap, HashSet implementation logic
+    - Frequency counting problems
+    - Detect duplicates, Anagrams
+    - Group anagrams
+    - Longest substring without repeating characters
+    - Custom hash functions and collision understanding
+
+7. Linked List
+    - Singly, Doubly, Circular linked list
+    - Reverse list (iterative & recursive)
+    - Detect and remove cycle (Floyd’s Algorithm)
+    - Merge two sorted lists
+    - Intersection point of two lists
+    - Reorder list, Rotate list
+    - Add two numbers represented as lists
+
+8. Stacks & Queues
+    - Stacks
+    - Implementation using arrays/linked lists
+    - Infix → Postfix / Prefix
+    - Evaluate expressions
+    - Nearest greater/smaller element
+    - Stock span, Rain water trapping, Histogram area
+    - Balanced parentheses
+    - Queues
+    - Circular queue, Deque, Priority Queue
+    - Sliding window maximum/minimum
+    - LRU Cache (LinkedHashMap or OrderedDict)
+    - BFS traversal (Tree/Graph)
+
+9. Backtracking
+    - Backtracking fundamentals (decision tree search)
+    - Classic Problems
+    - N-Queens
+    - Sudoku Solver
+    - Rat in a Maze
+    - Subsets, Permutations, Combinations
+    - Word Search
+    - Generate Parentheses
+    - Palindrome Partitioning
+    - Letter Combinations of a Phone Number
+
+10. Dynamic Programming (DP)
+    - 1D DP
+    - Fibonacci, Climbing Stairs
+    - Min Cost Path, Jump Game
+    - House Robber, Maximum Subarray Sum
+    - Coin Change (min ways / count ways)
+    - 2D DP
+    - Grid Paths, Unique Paths
+    - Subset Sum, Knapsack (0/1, Unbounded)
+    - Partition Equal Subset Sum
+    - Longest Common Subsequence
+    - Longest Increasing Subsequence
+    - Edit Distance
+    - Palindromic Substrings / Subsequences
+    - DP on Strings (LCS variants, regex matching)
+    - DP on Trees
+
+11. Greedy Algorithms
+    - Activity selection
+    - Job sequencing with deadlines
+    - Huffman Encoding
+    - Fractional Knapsack
+    - Gas station problem
+    - Minimum Platforms
+    - Coin change (greedy version)
+    - Interval problems (merge, overlap, schedule)
+
+12. Arrays & Strings
+    - Key Concepts
+    - Basics: Traversal, Prefix Sum, Kadane’s Algorithm
+    - Two Pointers & Sliding Window
+    - Sorting-based problems (custom sort, merge intervals)
+    - Searching (linear, binary, ternary)
+    - Prefix/Suffix manipulation
+    - String patterns and frequency counting
+    - Character hashing and ASCII-based problems
+    - Subarray / substring problems (sum, product, longest, etc.)
+    - Rotate, Reverse, Partition operations
+    - K-th smallest/largest element (Heap/Quickselect)
+    - Merge sorted arrays
+    - Matrix problems (spiral, rotation, prefix sums in 2D)
+    - String hashing (Rabin–Karp)
+    - Manacher’s Algorithm (longest palindrome)
+
+13. Mathematics & Number Theory
+    - Prime numbers, Sieve of Eratosthenes
+    - GCD, LCM, Modular Arithmetic
+    - Modular Exponentiation, Inverse
+    - Factorization, Divisors, Power of numbers
+    - Combinatorics (nCr, Pascal’s Triangle)
+    - Bit Manipulation (AND, OR, XOR, shifts)
+    - Gray Code, Subset generation using bits
+    - Probability & Expected Value basics
+    - Integer to Words, Base Conversions
+
+14. Bit Manipulation
+    - Check even/odd, kth bit set/unset
+    - Count bits, Brian Kernighan’s Algorithm
+    - Single Number, XOR patterns
+    - Subsets using bitmask
+    - Swap numbers without temp
+    - Gray code generation
+    - Power of two check
+    - Fast Exponentiation (binary exponentiation)
+    - Bit DP intro (like traveling salesman)
+
+15. Core Computer Science Fundamentals (CS Concepts)
+    - Operating Systems
+    - Processes, Threads
+    - Deadlocks, Scheduling
+    - Semaphores, Synchronization
+    - Paging, Segmentation, Virtual Memory
+    - Computer Networks
+    - OSI Model, TCP/IP
+    - IP, DNS, HTTP, HTTPS
+    - REST APIs, latency, caching
+    - SOLID principles
+
+16. System Design
+    - Basics
+    - Client–Server Architecture
+    - Load Balancing, Caching, Queues
+    - Design URL Shortener
+    - Design Chat Application
+    - Design News Feed (like Facebook)
+    - Design YouTube / Netflix (video streaming basics)
+
+17. Behavioral & HR Rounds
+    - Tell me about yourself
+    - Strengths, Weaknesses, Teamwork examples
+    - Conflict resolution
+    - Why this company?
+    - Explain your projects confidently (with impact and metrics)
+
+
+DBMS
+    - Normalization (1NF, 2NF, 3NF)
+    - ACID properties
+    - Indexing, Joins, Transactions
+    - SQL Query Writing & Optimization

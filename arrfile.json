@@ -1,0 +1,6 @@
+[
+    "apple",
+    "banana",
+    "cherry",
+    {"fruit": ["apple", "banana", "cherry"]}
+]
