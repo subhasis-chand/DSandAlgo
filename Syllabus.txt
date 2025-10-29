@@ -20,13 +20,13 @@
 
 ********************** Details *************************
 
-1. Recursion + Divide & Conquer
+1. Recursion + Divide & Conquer (1)
     - Recursion basics (factorial, Fibonacci, sum)
     - Binary Search variations
     - Merge Sort
     - Quick Sort
 
-2. Sorting & Searching Algorithms
+2. Sorting & Searching Algorithms (2)
     - Bubble, Insertion, Selection (basics)
     - Counting Sort, Radix Sort, Bucket Sort
     - Pancake sort
@@ -35,7 +35,7 @@
     - Two pointer method
     - Sliding window method
 
-3. Trees & Binary Trees
+3. Trees & Binary Trees (3)
     - Basic Concepts
     - Tree traversal (Preorder, Inorder, Postorder)
     - Level Order (BFS), Depth-based traversal (DFS)
@@ -48,8 +48,10 @@
     - Serialize / Deserialize binary tree
     - Mirror tree, Symmetric tree
     - Path-sum and root-to-leaf problems
+    - AVL tree
+    - Red black tree
 
-4. Graphs
+4. Graphs (2)
     - Representation
     - Adjacency list, matrix
     - Directed / Undirected graphs
@@ -62,7 +64,7 @@
     - Strongly Connected Components
     - Minimum Spanning Tree optimization
 
-5. Heap & Priority Queue
+5. Heap & Priority Queue (1)
     - Min Heap, Max Heap
     - Heapify, Insert, Delete
     - Heap Sort
@@ -71,7 +73,7 @@
     - Median of Data Stream
 
 
-6. Hashing & Maps
+6. Hashing & Maps (1)
     - HashMap, HashSet implementation logic
     - Frequency counting problems
     - Detect duplicates, Anagrams
@@ -79,7 +81,7 @@
     - Longest substring without repeating characters
     - Custom hash functions and collision understanding
 
-7. Linked List
+7. Linked List (1)
     - Singly, Doubly, Circular linked list
     - Reverse list (iterative & recursive)
     - Detect and remove cycle (Floyd’s Algorithm)
@@ -88,7 +90,7 @@
     - Reorder list, Rotate list
     - Add two numbers represented as lists
 
-8. Stacks & Queues
+8. Stacks & Queues (1)
     - Stacks
     - Implementation using arrays/linked lists
     - Infix → Postfix / Prefix
@@ -102,7 +104,7 @@
     - LRU Cache (LinkedHashMap or OrderedDict)
     - BFS traversal (Tree/Graph)
 
-9. Backtracking
+9. Backtracking (2)
     - Backtracking fundamentals (decision tree search)
     - Classic Problems
     - N-Queens
@@ -114,7 +116,7 @@
     - Palindrome Partitioning
     - Letter Combinations of a Phone Number
 
-10. Dynamic Programming (DP)
+10. Dynamic Programming (DP) (3)
     - 1D DP
     - Fibonacci, Climbing Stairs
     - Min Cost Path, Jump Game
@@ -131,7 +133,7 @@
     - DP on Strings (LCS variants, regex matching)
     - DP on Trees
 
-11. Greedy Algorithms
+11. Greedy Algorithms (2)
     - Activity selection
     - Job sequencing with deadlines
     - Huffman Encoding
@@ -141,7 +143,7 @@
     - Coin change (greedy version)
     - Interval problems (merge, overlap, schedule)
 
-12. Arrays & Strings
+12. Arrays & Strings (2)
     - Key Concepts
     - Basics: Traversal, Prefix Sum, Kadane’s Algorithm
     - Two Pointers & Sliding Window
@@ -158,7 +160,7 @@
     - String hashing (Rabin–Karp)
     - Manacher’s Algorithm (longest palindrome)
 
-13. Mathematics & Number Theory
+13. Mathematics & Number Theory (1)
     - Prime numbers, Sieve of Eratosthenes
     - GCD, LCM, Modular Arithmetic
     - Modular Exponentiation, Inverse
@@ -169,7 +171,7 @@
     - Probability & Expected Value basics
     - Integer to Words, Base Conversions
 
-14. Bit Manipulation
+14. Bit Manipulation (1)
     - Check even/odd, kth bit set/unset
     - Count bits, Brian Kernighan’s Algorithm
     - Single Number, XOR patterns
@@ -180,7 +182,7 @@
     - Fast Exponentiation (binary exponentiation)
     - Bit DP intro (like traveling salesman)
 
-15. Core Computer Science Fundamentals (CS Concepts)
+15. Core Computer Science Fundamentals (CS Concepts) (2)
     - Operating Systems
     - Processes, Threads
     - Deadlocks, Scheduling
@@ -192,7 +194,7 @@
     - REST APIs, latency, caching
     - SOLID principles
 
-16. System Design
+16. System Design (2)
     - Basics
     - Client–Server Architecture
     - Load Balancing, Caching, Queues
@@ -201,7 +203,7 @@
     - Design News Feed (like Facebook)
     - Design YouTube / Netflix (video streaming basics)
 
-17. Behavioral & HR Rounds
+17. Behavioral & HR Rounds (1)
     - Tell me about yourself
     - Strengths, Weaknesses, Teamwork examples
     - Conflict resolution
